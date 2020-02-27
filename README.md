@@ -4,7 +4,7 @@ description: Flat Able - Angular Admin Template Documentation
 
 # Introduction
 
-**Flat Able** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Flat Able is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
+**Flat Able** Admin Template is **Angular 9+ & Bootstrap 4 Admin Template** which comes with variety feature.
 
 **Author** : Phoenixcoded
 
@@ -22,10 +22,10 @@ description: Flat Able - Angular Admin Template Documentation
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 8.3.5
+* [Angular CLI](https://cli.angular.io/) 9.0.3
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * [SASS ](https://sass-lang.com)Powered
-* [NodeJs](https://nodejs.org/en/) \(v12.5.x\)
+* [NodeJs](https://nodejs.org/en/) \(v12.0.0\)
 * [NgBootstrap](https://ng-bootstrap.github.io/#/home) 5.0.0
 * [npmJs ](https://www.npmjs.com/)Third Party Modules 
 
